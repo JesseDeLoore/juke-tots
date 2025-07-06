@@ -1,0 +1,6 @@
+[project]
+name = "juke-tots"
+version = "0.1.0"
+description = "A DIY maker project to build a digital record player that allows anyone to easily play a set of music files"
+requires-python = ">=3.12"
+dependencies = []
